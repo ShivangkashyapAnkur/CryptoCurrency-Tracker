@@ -1,0 +1,38 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+  font-size: 40px;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.list-container {
+  border: #00e7ff 3px solid;
+  border-radius: 10px;
+}
+.list-header {
+  display: flex;
+  flex: column;
+  justify-content: space-around;
+  background-color: #092e33;
+}
+.coin-header {
+  display: flex;
+  flex-direction: row;
+}
+.coin-heading {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.coin-type {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding-left: 100px;
+}
+.currency-list-container {
+  display: flex;
+  flex-direction: column;
+}
